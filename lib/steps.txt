@@ -1,0 +1,16 @@
+pages needed
+home pages
+    -sales and ratings
+        -list of sales and their ratings using listview and listtile
+    -orders and quantity of order(count)
+        -list of orders
+            -detail info about the orders
+            edit status of the orders
+    -products
+        -list of products in user shop
+        -add new product
+            -product form
+    -setting
+        -modify account details
+        -delete account
+    -Total earning
